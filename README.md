@@ -1,4 +1,4 @@
-# RSS Feed Project for ukBathrooms
+# RSS Feed Recruitment Project
 
 A RSS Feed project using PHP, jQuery, HTML, CSS and Bootstrap 3.4.
 
