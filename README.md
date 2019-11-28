@@ -1,4 +1,4 @@
-# RSS Feed Recruitment Project
+# RSS Feed Project
 
 A RSS Feed project using PHP, jQuery, HTML, CSS and Bootstrap 3.4.
 
@@ -15,7 +15,7 @@ Adding caching to the images would also decrease load time and improve the overa
 
 * Improve the way I show more of the articles when the 'Show More' button is pressed by making use of an offset to load only new results etc.
 
-* Update to Bootstrap 4 to make use of things like cards etc. (I was going to originally use them but wanted to follow the instructions specified and used Bootstrap 3.4.
+* Update to Bootstrap 4 to make use of things like cards etc.
 
 * Improve overall styling of the page, I wanted to follow a dark mode style theme as it appeals to me and has less strain on the eyes when looking at it.
 
